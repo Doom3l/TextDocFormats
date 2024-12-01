@@ -4,6 +4,6 @@
     "year": 2023,
     "isTouchscreen": false,
     "devices": ["touchpad","webcam"],
-    "screenSize": 18.4,
-    "battery": 7000
+    "screenSize": 15.6,
+    "battery": 2200
     }
